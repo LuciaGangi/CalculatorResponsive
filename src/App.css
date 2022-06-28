@@ -1,9 +1,9 @@
 body {
-  overflow: hidden;
+  overflow-y: scroll;
 }
 
 .App {
-  height: 100vh;
+  height: 100%;
   padding-top: 10px;
   background: radial-gradient(circle, rgba(63,94,251,1) 12%, rgba(252,70,107,0.9987324434168199) 70%);
   font-family: Lato, sans-serif;
